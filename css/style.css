@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+#navcontainer {
+    text-align: center;
+    width: 1140px;
+    padding: 12px 80px;
+}
+
+#photo {
+    display: inline;
+}
+
+#class {
+    display: inline-block;
+    list-style-type: none;
+    margin-top: 20px;
+    list-style-type: none;
+}
+
+#nav {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#list {
+    display: inline-block;
+    margin-bottom: 20.5px;
+    color: #323232;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    
+}
+
+#photo1 {
+    display: inline;
+    vertical-align: middle;
+}
+
+#listt {
+    display: inline-block;
+    color: #FF5DA3;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+
+}
